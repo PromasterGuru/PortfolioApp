@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="map_key" translatable="false">AIzaSyAW9B_WmtagP-eSMX-5nq5dCsWfx-gDEek</string>
+    <string name="facebook_app_id">1768496983284941</string>
+    <string name="fb_login_protocol_scheme">fb1768496983284941</string>
+</resources>
